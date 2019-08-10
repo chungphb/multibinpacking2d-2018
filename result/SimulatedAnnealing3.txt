@@ -1,0 +1,2 @@
+     #	   min	   max	     avg	     std	  min2	  max2	    avg2	    std2
+     1	     4	     5	    4.20	    0.40	   962	  1121	 1064.00	   55.14
